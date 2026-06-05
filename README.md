@@ -1,3 +1,39 @@
+# TheLook E-commerce Analytics Dashboard
+
+## Overview
+Dự án phân tích dữ liệu bán hàng của TheLook E-commerce nhằm:
+* Theo dõi doanh thu
+* Phân tích khách hàng
+* Đánh giá hiệu quả sản phẩm
+* Hỗ trợ ra quyết định kinh doanh
+
+## Dataset
+Source: TheLook Ecommerce Dataset
+Tables:
+* orders
+* order_items
+* users
+* products
+* inventory_items
+
+## Repository Structure
+
+├── data/
+
+├── Images/
+
+├── EDA.ipynb
+
+├── thelook_analyst.pbix
+
+└── README.md
+
+## Tools
+* Power BI
+* DAX
+* Power Query
+* Python (EDA)
+
 ## Dashboard Overview
 
 ###  Sales Performance  
