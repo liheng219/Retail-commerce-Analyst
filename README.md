@@ -1,10 +1,10 @@
 ## Dashboard Overview
 
 ###  Sales Performance  
- ![Sales Dashboard](images/Sale_Performance.png) 
+ ![Sales Dashboard](Images/"Sale Performance.png") 
  
 ###  Customer Analytics 
- ![Customer Dashboard](images/Customers_KPI.jpg) 
+ ![Customer Dashboard](Images/Customers_kpi.png) 
 
 > *Tổng quan hiệu suất doanh thu và phân tích hành vi khách hàng năm 2026.*
 
