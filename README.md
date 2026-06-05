@@ -4,7 +4,7 @@
  ![Sales Dashboard](Images/Sale_Performance.png)
  
 ###  Customer Analytics 
- ![Customer Dashboard](Images/Customers_kpi.png) 
+![Customer Dashboard](Images/Customers_kpi.png)
 > *Tổng quan hiệu suất doanh thu và phân tích hành vi khách hàng năm 2026.*
 
 
