@@ -1,7 +1,7 @@
 ## Dashboard Overview
 
 ###  Sales Performance  
- ![Sales Dashboard](Images/"Sale Performance.png") 
+ ![Sales Dashboard](Images/Sale_Performance.png)
  
 ###  Customer Analytics 
  ![Customer Dashboard](Images/Customers_kpi.png) 
